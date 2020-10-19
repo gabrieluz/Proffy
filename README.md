@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./web/src/assets/images/logo.svg">  </h1>
+# <kbd>![logo.svg](./web/src/assets/images/logo.svg) </kbd>
 
 ## Índice
 
