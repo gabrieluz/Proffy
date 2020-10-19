@@ -1,4 +1,4 @@
-# <kbd>![logo.svg](./web/src/assets/images/logo.svg) </kbd>
+# ![logo.svg](./web/src/assets/images/logo.svg)
 
 ## Índice
 
